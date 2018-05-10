@@ -5,6 +5,8 @@
       <mapping pattern=".bash_profile" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="minion" type="PLAIN_TEXT" />
+      <mapping ext="sls" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
     </extensionMap>

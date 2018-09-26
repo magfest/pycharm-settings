@@ -7,4 +7,7 @@
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
+  <codeStyleSettings language="Python">
+    <option name="RIGHT_MARGIN" value="120" />
+  </codeStyleSettings>
 </code_scheme>
